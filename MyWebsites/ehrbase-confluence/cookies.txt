@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+openehr.atlassian.net	TRUE	/wiki	FALSE	1999999999	JSESSIONID	D508DE16576D11CFAA7571E11AF26C6C
+openehr.atlassian.net	TRUE	/wiki	FALSE	1999999999	atl.xsrf.token	26646ff642beaf996933a893180bdaa0f1d80868
+
